@@ -9,7 +9,7 @@ Photo art is a fun and creative way to create original art or share memories wit
 ## Screenshots
 
 ![Demo Screenshot]
-(<img width="764" alt="output1" src="https://user-images.githubusercontent.com/114156392/206903415-a3ea1c33-ad5b-4b6a-8ca7-4baecdb6e511.png">)
+<img width="764" alt="output1" src="https://user-images.githubusercontent.com/114156392/206903415-a3ea1c33-ad5b-4b6a-8ca7-4baecdb6e511.png">
 
 
 ## Installation
